@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./styles.css" />
+    <title>DevClub - Troca de cores</title>
+  </head>
+  <body>
+    <h1>DevClub - Troca de cores</h1>
+
+    <main class="container">
+      <button onclick="changeColor('red')">Vermelho</button>
+      <button onclick="changeColor('green')">Verde</button>
+      <button onclick="changeColor('blue')">Azul</button>
+      <button onclick="changeColor('yellow')">Amarelo</button>
+      <button onclick="randomColor()">Cor Aleatória</button>
+      <br />
+      <input placeholder="Nome da cor ou #HEX" type="text" class="inputColor" />
+
+      <button onclick="customColor()" class="customColorButton">
+        Aplicar Cor
+      </button>
+
+      <input type="color" onchange="changeColor(this.value)" />
+
+      <label>
+        escolher imagem
+        <input
+          type="file"
+          accept="image/*"
+          onchange="chooseImage(this.files[0])"
+        />
+      </label>
+    </main>
+  </body>
+  <script src="./scripts.js"></script>
+</html>
