@@ -15,5 +15,5 @@ Aplicação prática feita com HTML, CSS e JavaScript, que permite ao usuário t
 
 <h2>🌍 Links Importantes:</h2>
 <ul>
-  <li>🌐 <strong>Deploy do Projeto:</strong> <a href="https://erikbdasilva20.github.io/Troca_de_Cores/" target="_blank">https://erikbdasilva20.github.io/Troca_de_Cores/</a></li>
+  <li>🌐 <strong>Deploy do Projeto:</strong> <a href="https://erikbdasilva20.github.io/Calculadora-com-Grid/" target="_blank">https://erikbdasilva20.github.io/Calculadora-com-Grid/</a></li>
 </ul>
