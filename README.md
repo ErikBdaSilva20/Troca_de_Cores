@@ -11,7 +11,6 @@ Aplicação prática feita com HTML, CSS e JavaScript, que permite ao usuário t
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
 </p>
 
-<h2>📋 O Que o Projeto Faz:</h2>
 
 <h2>🌍 Links Importantes:</h2>
 
@@ -20,4 +19,4 @@ Aplicação prática feita com HTML, CSS e JavaScript, que permite ao usuário t
 
 🌐 Projeto no GitHub Pages: [https://erikbdasilva20.github.io/Calculadora-com-Grid](https://erikbdasilva20.github.io/Calculadora-com-Grid)
 
-🔗 Perfil no linkedin: [www.linkedin.com/in/erik-borgessilva20](www.linkedin.com/in/erik-borgessilva20)
+🔗 Perfil no LinkedIn: [https://www.linkedin.com/in/erik-borgessilva20](https://www.linkedin.com/in/erik-borgessilva20)
