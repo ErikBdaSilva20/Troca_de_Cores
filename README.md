@@ -14,6 +14,10 @@ Aplicação prática feita com HTML, CSS e JavaScript, que permite ao usuário t
 <h2>📋 O Que o Projeto Faz:</h2>
 
 <h2>🌍 Links Importantes:</h2>
-<ul>
-  <li>🌐 <strong>Deploy do Projeto:</strong> <a href="https://erikbdasilva20.github.io/Calculadora-com-Grid/" target="_blank">https://erikbdasilva20.github.io/Calculadora-com-Grid/</a></li>
-</ul>
+
+
+📂 Repositório no GitHub:[https://github.com/ErikBdaSilva20/Troca_de_Cores](https://github.com/ErikBdaSilva20/Troca_de_Cores)
+
+🌐 Projeto no GitHub Pages: [https://erikbdasilva20.github.io/Calculadora-com-Grid](https://erikbdasilva20.github.io/Calculadora-com-Grid)
+
+🔗 Perfil no linkedin: [www.linkedin.com/in/erik-borgessilva20](www.linkedin.com/in/erik-borgessilva20)
