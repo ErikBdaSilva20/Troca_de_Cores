@@ -17,6 +17,6 @@ Aplicação prática feita com HTML, CSS e JavaScript, que permite ao usuário t
 
 📂 Repositório no GitHub:[https://github.com/ErikBdaSilva20/Troca_de_Cores](https://github.com/ErikBdaSilva20/Troca_de_Cores)
 
-🌐 Projeto no GitHub Pages: [https://erikbdasilva20.github.io/Calculadora-com-Grid](https://erikbdasilva20.github.io/Calculadora-com-Grid)
+🌐 Projeto no GitHub Pages: [https://erikbdasilva20.github.io/Troca_de_Cores/](https://erikbdasilva20.github.io/Troca_de_Cores/)
 
 🔗 Perfil no LinkedIn: [https://www.linkedin.com/in/erik-borgessilva20](https://www.linkedin.com/in/erik-borgessilva20)
